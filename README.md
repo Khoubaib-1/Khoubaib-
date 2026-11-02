@@ -30,27 +30,13 @@
   <li><b>AI Agents in QA:</b> Leveraging Cursor AI, MCP tools, and GitHub Copilot to optimize test coverage and accelerate automation workflows[cite: 1.2].</li>
 </ul>
 
-<h3>Featured Portfolio Project</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/khoubaibyahyaoui3/QA-Portfolio-Hub"><b>QA-Portfolio-Hub</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/khoubaibyahyaoui3/QA-Portfolio-Hub?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/khoubaibyahyaoui3/QA-Portfolio-Hub?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/khoubaibyahyaoui3/QA-Portfolio-Hub?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/khoubaibyahyaoui3/QA-Portfolio-Hub?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+### 🚀 Featured Portfolio Project
+- 📌 **[QA-Portfolio-Hub](https://github.com/Khoubaib-1/QA-Portfolio-Hub)** 
+- **Main Focus:** A 10-week disciplined automation engineering path covering manual test design (STLC/Jira), REST API testing (Postman), database query validation (SQL), and enterprise-grade end-to-end web automation frameworks (Cypress & Playwright POM architecture with GitHub Actions CI/CD).
+
+| Projects | Stars | Forks | Issues | Pull Requests |
+| :---: | :---: | :---: | :---: | :---: |
+| ![QA-Portfolio-Hub](https://img.shields.io/github/stars/Khoubaib-1/QA-Portfolio-Hub?style=flat-square&label=QA-Portfolio-Hub) | ![Stars](https://img.shields.io/github/stars/Khoubaib-1/QA-Portfolio-Hub?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Khoubaib-1/QA-Portfolio-Hub?style=flat-square) | ![Issues](https://img.shields.io/github/issues/Khoubaib-1/QA-Portfolio-Hub?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/Khoubaib-1/QA-Portfolio-Hub?style=flat-square) |
 
 <h3>Where to find me</h3>
 <p>
