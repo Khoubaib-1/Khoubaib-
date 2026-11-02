@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Khoubaib, <b>Software Quality Assurance & Test Automation Engineer </b> <img src="https://emojis.slackmojis.com/emojis/images/1669301155/62850/testing.gif?1669301155" width="30"/>.</p>
+<p>Welcome to my page! </br> I'm Khoubaib, <b>Software Quality Assurance & Test Automation Engineer </b>.</p>
 
 <h3>Things I test & code with</h3>
 <p>
